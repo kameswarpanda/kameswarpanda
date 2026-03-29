@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kameswar Panda! 👋</h1>
 
 <p align="center">
-  <b>Software Engineer & Solutions Architect | Generative AI & Agentic AI Enthusiast</b>
+  <b>Software Engineer | Generative AI & Agentic AI Enthusiast</b>
 </p>
 
 <p align="center">
